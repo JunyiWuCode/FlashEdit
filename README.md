@@ -11,7 +11,7 @@ FlashEdit: Decoupling Speed, Structure, and Semantics for Precise Image Editing
 
 #### 🔥🔥🔥 News
 
-- **2025-09-26:** This repo is released.
+- **2025-11:** This repo is released.
 
 ---
 
