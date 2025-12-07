@@ -55,7 +55,12 @@ Detailed results can be found in the paper.
 If you find the code helpful in your research or work, please cite the following paper.
 
 ```
-N/A
+@article{wu2025flashedit,
+  title={FlashEdit: Decoupling Speed, Structure, and Semantics for Precise Image Editing},
+  author={Wu, Junyi and Li, Zhiteng and Qin, Haotong and Liu, Xiaohong and Kong, Linghe and Zhang, Yulun and Yang, Xiaokang},
+  journal={arXiv preprint arXiv:2509.22244},
+  year={2025}
+}
 ```
 
 ## 💡 Acknowledgements
